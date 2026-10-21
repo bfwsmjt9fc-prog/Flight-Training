@@ -11,7 +11,7 @@ It's here so GitHub can show exactly which cards changed between versions. As of
 2,055 notes (2,822 cards) through Quiz 4 (Week 6).
 
 The `.apkg` itself (about 115 MB, mostly diagram images) is too big to keep in the repo, because GitHub
-rejects files over 100 MB. Each version is attached to a [release](../../releases) instead.
+rejects files over 100 MB. Each version is attached to a [release](https://github.com/bfwsmjt9fc-prog/flight-training/releases) instead.
 
 To refresh the text copy after exporting a new `.apkg` from Anki:
 
