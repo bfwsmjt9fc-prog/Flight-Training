@@ -20,3 +20,9 @@ Study materials for my flight training courses, kept in one place with full vers
 
 Claude makes changes on a separate branch and opens a pull request. Review what changed on the
 pull request page, then click **Merge** to keep it, or close it to throw it away.
+
+## Anki decks
+
+Anki `.apkg` files are usually too big for the repo, since GitHub rejects files over 100 MB. Each course
+keeps a text copy of its cards in `anki/cards.tsv` (made with `tools/export_apkg.py`, which needs
+`pip install zstandard`), and the `.apkg` files are attached to [releases](../../releases).
